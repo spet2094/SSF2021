@@ -1,0 +1,9 @@
+avg_node_degree,float64
+gain_resistance_chance,float64
+num_nodes,float64
+recovery_chance,float64
+virus_check_frequency,float64
+virus_spread_chance,float64
+scenario,object
+policy,object
+model,object

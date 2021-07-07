@@ -1,0 +1,6 @@
+pop_infected,float64
+pop_size,float64
+rescale_threshold,float64
+scenario,object
+policy,object
+model,object

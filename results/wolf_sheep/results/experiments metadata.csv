@@ -1,0 +1,8 @@
+grass_regrowth_time,float64
+sheep_gain_from_food,float64
+sheep_reproduce,float64
+wolf_gain_from_food,float64
+wolf_reproduce,float64
+scenario,object
+policy,object
+model,object
